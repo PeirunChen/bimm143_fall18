@@ -99,3 +99,5 @@ lig
 ``` r
 write.pdb(lig,file = "1hsg_ligand.pdb")
 ```
+
+ls=location mv=move
