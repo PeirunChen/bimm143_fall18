@@ -1,6 +1,6 @@
 ---
 title: "Hand on 9"
-output: html_document
+output: github_document
 author: Peirun Chen
 ---
 
