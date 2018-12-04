@@ -7,7 +7,7 @@ author: Peirun Chen
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-#Preparing the data
+#Preparing the data  
 ```{r}
 wisc.df <- read.csv("https://bioboot.github.io/bimm143_S18/class-material/WisconsinCancer.csv")
 ```
